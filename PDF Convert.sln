@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Convert", "PDF Convert\PDF Convert.csproj", "{E6DF9221-5DCF-4C38-A315-6D4AFA6B4DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DF9221-5DCF-4C38-A315-6D4AFA6B4DBF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DF9221-5DCF-4C38-A315-6D4AFA6B4DBF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E6DF9221-5DCF-4C38-A315-6D4AFA6B4DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DF9221-5DCF-4C38-A315-6D4AFA6B4DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

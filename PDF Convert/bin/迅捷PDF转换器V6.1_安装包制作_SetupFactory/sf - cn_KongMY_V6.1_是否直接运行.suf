@@ -1,0 +1,4572 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DocumentData>
+<ProductID>{AFB904C4-C255-4540-B97E-A75A34F1FFB0}</ProductID>
+<ProductVersion>9.0.3.0</ProductVersion>
+<ProductType>Crack</ProductType>
+<ArchiveFiles>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\Aspose.Cells.dll</FullName>
+<FileName>Aspose.Cells.dll</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>dll</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>%ProductName%</SCDesc>
+<SCComment>Ñ¸½ÝPDF×ª»»Æ÷</SCComment>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\Aspose.Pdf.dll</FullName>
+<FileName>Aspose.Pdf.dll</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>dll</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Aspose.Pdf</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\Aspose.Slides.dll</FullName>
+<FileName>Aspose.Slides.dll</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>dll</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Aspose.Slides</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\Aspose.Total.lic</FullName>
+<FileName>Aspose.Total.lic</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>lic</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Aspose.Total</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\Aspose.Words.dll</FullName>
+<FileName>Aspose.Words.dll</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>dll</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Aspose.Words for .NET</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\config.ini</FullName>
+<FileName>config.ini</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>ini</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>config</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\Controls.dll</FullName>
+<FileName>Controls.dll</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>dll</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Controls</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\pdf.ico</FullName>
+<FileName>pdf.ico</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>ico</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>pdf</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\PDF Convert.exe</FullName>
+<FileName>PDF Convert.exe</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>exe</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>1</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>1</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>%ProductName%</SCDesc>
+<SCComment>Ñ¸½ÝPDF×ª»»Æ÷</SCComment>
+<SCArgs/>
+<SCWork>%AppFolder%</SCWork>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\PDF Convert.pdb</FullName>
+<FileName>PDF Convert.pdb</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>pdb</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>PDF Convert</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\PDF Convert.vshost.exe</FullName>
+<FileName>PDF Convert.vshost.exe</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>exe</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>1</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Microsoft? Visual Studio? 2013</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\PDF Convert.vshost.exe.manifest</FullName>
+<FileName>PDF Convert.vshost.exe.manifest</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>manifest</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>PDF Convert.vshost.exe</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\pdf.ico</FullName>
+<FileName>pdf.ico</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>ico</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>pdf</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\setup.ico</FullName>
+<FileName>setup.ico</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>ico</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>setup</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\uninst.ico</FullName>
+<FileName>uninst.ico</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release</Source>
+<Ext>ico</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>uninst</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\ar\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\ar</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\ar</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\en\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\en</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\en</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\zh-CN\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\zh-CN</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\zh-CN</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+</ArchiveFiles>
+<ExternalFiles/>
+<BeforeInstallingScreens>
+<Screen>
+<Type>100</Type>
+<Name>Welcome to Setup</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Welcome to Setup</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Top_Banner.bmp</TBIMG>
+<SBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Side_Banner.bmp</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- These actions are performed when the Back button is clicked.
+
+-- go back to the previous screen
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- These actions are performed when the Next button is clicked.
+
+-- advance to the next screen
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- These actions are performed when the Help button is clicked.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- These actions are triggered by the controls on the screen.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>77</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>78</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>»¶Ó­</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>»¶Ó­Ê¹ÓÃ %ProductName% %ProductVer% °²×°³ÌÐò</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>»¶Ó­Ê¹ÓÃ %ProductName% %ProductVer% °²×°³ÌÐò¡£
+
+Ç¿ÁÒ½¨ÒéÄúÔÚ¼ÌÐø¸Ã°²×°Ö®Ç°£¬ÍË³öËùÓÐ Windows ³ÌÐò¡£
+
+Èç¹ûÄúÓÐÈÎºÎÆäËû³ÌÐòÕýÔÚÔËÐÐ£¬Çëµ¥»÷¡°È¡Ïû¡±£¬¹Ø±Õ³ÌÐò£¬È»ºóÔÙ´ÎÔËÐÐ¸Ã°²×°³ÌÐò¡£
+
+·ñÔò£¬Çëµ¥»÷¡°ÏÂÒ»²½¡±¼ÌÐø¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>»¶Ó­</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+<Screen>
+<Type>110</Type>
+<Name>Select Install Folder</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>Select Install Folder</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Top_Banner.bmp</TBIMG>
+<SBIMG>C:\Program Files (x86)\Setup Factory 9 Trial\Themes\Default\Default_Side_Banner.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Variable>%AppFolder%</Variable>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+
+-- calculate the amount of space required for the installation
+_SpaceRequired = SetupData.CalculateRequiredSpace();
+
+-- format it as a string with an appropriate unit of measurement (e.g. "0 bytes")
+local strSpaceRequired = String.GetFormattedSize(_SpaceRequired);
+
+-- store the string in a session variable so it can be used in the screen text
+SessionVar.Set("%SpaceRequired%", strSpaceRequired);
+
+-- from _SUF70_Global_Functions.lua:
+-- update the 'Space required:' message (expands any session variables in it)
+g_UpdateStaticTextCtrl(CTRL_STATICTEXT_SPACEREQUIRED, "IDS_CTRL_STATICTEXT_SPACEREQUIRED");
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- These actions are performed when the Back button is clicked.
+
+-- go back to the previous screen
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- These actions are performed when the Next button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- make sure the install folder path is formatted properly (i.e. is a valid UNC or DOS path string)
+if(g_IsValidPath(strInstallFolderPath)) then
+
+	-- if there's enough space on the selected drive, proceed to the next screen
+	if(_SpaceAvailable &gt;= _SpaceRequired) then
+		-- there's enough space on the drive...so
+		-- proceed to the next screen
+		Screen.Next();
+	else
+		-- there isn't enough space on the drive...
+		
+		-- from _SUF70_Global_Functions.lua:
+		-- ask the user if they want to continue anyway
+		if g_ConfirmFreeSpaceOverride() then
+			-- user said to install anyway...so
+			-- advance to the next screen
+			Screen.Next();
+		end
+	end
+else
+	-- the install folder path isn't valid...
+	
+	local strTitle = SetupData.GetLocalizedString("MSG_INVALID_ENTRY");
+	local strPrompt;
+
+	-- from _SUF70_Global_Functions.lua:
+	-- check whether the install folder path contains only valid path characters
+	if(g_ContainsValidPathChars(strInstallFolderPath)) then
+		-- the string is just formatted wrong
+		strPrompt = SetupData.GetLocalizedString("ERR_INVALID_PATH");
+	else
+		-- the string contains invalid characters
+		strPrompt = SetupData.GetLocalizedString("ERR_INVALID_CHARACTERS") .. "\r\n/ * ? \" &lt; &gt; |";		
+	end
+
+	-- tell the user to smarten up :)
+	Dialog.Message(strTitle, strPrompt, MB_OK, MB_ICONEXCLAMATION);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- These actions are performed when the Help button is clicked.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- These actions are triggered by the controls on the screen.
+
+if(e_CtrlID == CTRL_BUTTON_BROWSE) then
+	-- the control message is from the browse button...
+
+	-- if it's a click message, show the browse dialog 
+	-- and update the install folder
+	if (e_MsgID == MSGID_CLICKED) then
+
+		-- get the text from the label above the install folder field
+		-- (this will be used as the prompt on the Browse dialog)
+		local strPrompt = Screen.GetLocalizedString("IDS_CTRL_STATICTEXT_LABEL_01");
+		strPrompt = SessionVar.Expand(strPrompt);
+		
+		-- from _SUF70_Global_Functions.lua:
+		-- display a folder browse dialog to change the path in the install folder field
+		g_EditFieldFolderBrowse(CTRL_EDIT_FOLDER, strPrompt);
+	end
+end
+
+
+if(e_CtrlID == CTRL_EDIT_FOLDER) then
+	-- the control message is from the install folder field...
+
+	-- if it's an OnChanged message (i.e. the installation path has changed)
+	-- recalculate the space available on the selected drive
+	if (e_MsgID == MSGID_ONCHANGED) then
+
+		strInstallFolderPath = e_Details.Text;
+		
+		-- from _SUF70_Global_Functions.lua:
+		-- calculate the amount of disk space available on the selected drive
+		_SpaceAvailable = g_GetFreeSpaceInBytes(strInstallFolderPath);
+
+		-- set %SpaceAvailable% to a string with an appropriate unit of measurement (e.g. "0 bytes")
+		SessionVar.Set("%SpaceAvailable%", String.GetFormattedSize(_SpaceAvailable) );
+
+		-- from _SUF70_Global_Functions.lua:
+		-- update the 'Space available on selected drive:' message (expands any session variables in it)
+		g_UpdateStaticTextCtrl(CTRL_STATICTEXT_SPACEAVAILABLE, "IDS_CTRL_STATICTEXT_SPACEAVAILABLE");
+	end
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>211</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>6</Type>
+<ID>801</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<TextAlign>0</TextAlign>
+<VertScroll>0</VertScroll>
+<HorizScroll>0</HorizScroll>
+<RTLReadingOrder>0</RTLReadingOrder>
+<Style>0</Style>
+<Mode>0</Mode>
+<MaskReturnMode>1</MaskReturnMode>
+<ReadOnly>0</ReadOnly>
+<StartNewRow>1</StartNewRow>
+<SizeColumns>4</SizeColumns>
+<Variable>%AppFolder%</Variable>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>110</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<FTButton>0</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>208</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>5</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>207</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>6</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> °²×°ÎÄ¼þ¼Ð</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT> ÄúÏë½« %ProductName% °²×°µ½ºÎ´¦£¿</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_BUTTON_BROWSE>¸ü¸Ä(&amp;H)...</IDS_CTRL_BUTTON_BROWSE>
+<IDS_CTRL_EDIT_FOLDER>%AppFolder%</IDS_CTRL_EDIT_FOLDER>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>Èí¼þ½«±»°²×°µ½ÒÔÏÂÁÐ³öµÄÎÄ¼þ¼ÐÖÐ¡£ÒªÑ¡Ôñ²»Í¬µÄÎ»ÖÃ£¬¼üÈëÐÂµÄÂ·¾¶£¬»òµ¥»÷¡°¸ü¸Ä¡±ä¯ÀÀÏÖÓÐµÄÎÄ¼þ¼Ð¡£</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_LABEL_01>½« %ProductName% °²×°µ½:</IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_SPACEREQUIRED>ËùÐè¿Õ¼ä: %SpaceRequired%</IDS_CTRL_STATICTEXT_SPACEREQUIRED>
+<IDS_CTRL_STATICTEXT_SPACEAVAILABLE>Ñ¡¶¨Çý¶¯Æ÷µÄ¿ÉÓÃ¿Õ¼ä: %SpaceAvailable%</IDS_CTRL_STATICTEXT_SPACEAVAILABLE>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</BeforeInstallingScreens>
+<DuringInstScreenData>
+<ShowProgress>1</ShowProgress>
+<Screens>
+<Screen>
+<Type>130</Type>
+<Name>One Progress Bar (While Installing)</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>One Progress Bar (While Installing)</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Top_Banner.bmp</TBIMG>
+<SBIMG>C:\Program Files (x86)\Setup Factory 9 Trial\Themes\Default\Default_Side_Banner.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<IsWhileInstallingMode>1</IsWhileInstallingMode>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Progress</Name>
+<Args>number e_Stage, string e_CurrentItemText, number e_CurrentItemPct, number e_StagePct</Args>
+<Script>-- These actions are performed whenever progress is made while the setup is installing files.
+
+--[[
+Note: 
+	The file installation process is divided into 4 progress stages: 
+
+	1. preparing to install
+	2. installing files
+	3. creating the uninstall
+	4. creating shortcuts
+
+	Each progress stage has a string in the project's language file(s)
+	that describes the stage, e.g. "Installing Files..." This makes
+	it possible for the progress text to be translated (along with
+	the other localized strings in the language files).
+]]
+
+-- get the appropriate string ID for the current stage's progress message...
+local strStringID;
+if(e_Stage == INSTALL_STAGE_PREPARING) then
+	strStringID = "MSG_PROG_PREPARING";
+elseif(e_Stage == INSTALL_STAGE_INSTALLING_FILES) then
+	strStringID = "MSG_PROG_INSTALLING_FILES";
+elseif(e_Stage == INSTALL_STAGE_CREATING_UNINSTALL) then
+	strStringID = "MSG_PROG_CREATING_UNINSTALL";
+elseif(e_Stage == INSTALL_STAGE_CREATING_SHORTCUTS) then
+	strStringID = "MSG_PROG_CREATING_SHORTCUTS";
+end
+
+-- ...and get the corresponding string from the language file
+local strStageMessage = SetupData.GetLocalizedString(strStringID);
+
+-- update the progress prompt to show the current stage
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_01, {Text=strStageMessage});
+
+-- if the current item is a file path, it might be too long to fit on the screen...
+-- this next action will shorten the text to 72 characters if it contains at least one \ in it
+local strAbbreviatedItemText = String.AbbreviateFilePath(e_CurrentItemText, 72);
+
+-- update the status text to show the current item (e.g. the file being installed)
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_02, {Text=strAbbreviatedItemText});
+
+-- update the progress bar
+DlgProgressBar.SetPos(CTRL_PROGRESS_BAR_01, e_StagePct);
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>78</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>211</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>212</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>900</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>1</XPStyleBars>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>213</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>214</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>901</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>0</XPStyleBars>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> ÕýÔÚ°²×° %ProductName%</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT> ÇëÉÔºò...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01/>
+<IDS_CTRL_STATICTEXT_LABEL_02/>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>½ø³Ì¶þ</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>ÕýÔÚÖ´ÐÐ¶¯×÷...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</Screens>
+</DuringInstScreenData>
+<AfterInstallingScreens>
+<Screen>
+<Type>150</Type>
+<Name>Check Boxes</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>Check Boxes</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>Default_Top_Banner.jpg</TBIMG>
+<SBIMG>Default_Side_Banner.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<NumCheckBoxes>1</NumCheckBoxes>
+<Check0>0</Check0>
+<Cols>1</Cols>
+<Distribute>0</Distribute>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- These actions are performed when the Back button is clicked.
+
+-- go back to the previous screen
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- These actions are performed when the Next button is clicked.
+-- Tip: this is where you could add actions to validate the
+--      user's input before proceeding
+
+-- advance to the next screen
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- These actions are performed when the Help button is clicked.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- These actions are triggered by the controls on the screen.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>204</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>33</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<Checked>0</Checked>
+<Variable>check01</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1301</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<Checked>0</Checked>
+<Variable>check02</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1302</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<Checked>0</Checked>
+<Variable>check03</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1303</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Checked>0</Checked>
+<Variable>check04</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1304</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>5</TabOrder>
+<Checked>0</Checked>
+<Variable>check05</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1305</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>6</TabOrder>
+<Checked>0</Checked>
+<Variable>check06</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1306</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>7</TabOrder>
+<Checked>0</Checked>
+<Variable>check07</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1307</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>8</TabOrder>
+<Checked>0</Checked>
+<Variable>check08</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1308</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>9</TabOrder>
+<Checked>0</Checked>
+<Variable>check09</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1309</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>10</TabOrder>
+<Checked>0</Checked>
+<Variable>check10</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1310</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>11</TabOrder>
+<Checked>0</Checked>
+<Variable>check11</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1311</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>12</TabOrder>
+<Checked>0</Checked>
+<Variable>check12</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1312</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>13</TabOrder>
+<Checked>0</Checked>
+<Variable>check13</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1313</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>14</TabOrder>
+<Checked>0</Checked>
+<Variable>check14</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1314</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>15</TabOrder>
+<Checked>0</Checked>
+<Variable>check15</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1315</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>16</TabOrder>
+<Checked>0</Checked>
+<Variable>check16</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1316</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>17</TabOrder>
+<Checked>0</Checked>
+<Variable>check17</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1317</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>18</TabOrder>
+<Checked>0</Checked>
+<Variable>check18</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1318</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>19</TabOrder>
+<Checked>0</Checked>
+<Variable>check19</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1319</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>20</TabOrder>
+<Checked>0</Checked>
+<Variable>check20</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1320</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>21</TabOrder>
+<Checked>0</Checked>
+<Variable>check21</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1321</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>22</TabOrder>
+<Checked>0</Checked>
+<Variable>check22</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1322</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>23</TabOrder>
+<Checked>0</Checked>
+<Variable>check23</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1323</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>24</TabOrder>
+<Checked>0</Checked>
+<Variable>check24</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1324</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>25</TabOrder>
+<Checked>0</Checked>
+<Variable>check25</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1325</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>26</TabOrder>
+<Checked>0</Checked>
+<Variable>check26</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1326</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>27</TabOrder>
+<Checked>0</Checked>
+<Variable>check27</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1327</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>28</TabOrder>
+<Checked>0</Checked>
+<Variable>check28</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1328</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>29</TabOrder>
+<Checked>0</Checked>
+<Variable>check29</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1329</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>30</TabOrder>
+<Checked>0</Checked>
+<Variable>check30</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1330</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>31</TabOrder>
+<Checked>0</Checked>
+<Variable>check31</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1331</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>32</TabOrder>
+<Checked>0</Checked>
+<Variable>check32</Variable>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Ñ¡Ïî</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Ñ¡ÔñÄúÏëÒªµÄÑ¡Ïî£¬²¢µ¥»÷¡°ÏÂÒ»²½¡±¼ÌÐø¡£</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>Çë´ÓÒÔÏÂÑ¡ÏîÑ¡Ôñ:</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS>×¢Òâ: Äú¿ÉÒÔÑ¡ÔñÄúÏëÒªµÄ¶à¸öÑ¡Ïî¡£
+</IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS>
+<IDS_CTRL_CHECK_BOX_01>ÊÇ·ñÖ±½ÓÔËÐÐ</IDS_CTRL_CHECK_BOX_01>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+<Screen>
+<Type>100</Type>
+<Name>Finished Install</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Finished Install</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Top_Banner.bmp</TBIMG>
+<SBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Side_Banner.bmp</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- These actions are performed when the Back button is clicked.
+
+-- go back to the previous screen
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- These actions are performed when the Next button is clicked.
+
+-- advance to the next screen
+if (check01) then --ÕâÊÇKongMengyuan×Ô¼º¶¨ÒåµÄ¼ì²é°´Å¥"ÊÇ·ñÖ±½ÓÔËÐÐ"
+result = Shell.Execute(SessionVar.Expand("%AppFolder%\\PDF Convert.exe"), "open", "", SessionVar.Expand("%AppFolder%"), SW_SHOWNORMAL, false);
+end
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- These actions are performed when the Help button is clicked.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- These actions are triggered by the controls on the screen.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>°²×°ÒÑÍê³É</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>°²×°ÒÑ³É¹¦Íê³É¡£</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>Íê³É(&amp;F)</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ÉÏÒ»²½(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>%ProductName% %ProductVer% °²×°ÒÑÍê³É¡£
+
+¸ÐÐ»ÄúÑ¡Ôñ %ProductName%£¡
+
+Çëµ¥»÷¡°Íê³É¡±ÍË³ö¸Ã°²×°³ÌÐò¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>°²×°³É¹¦</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</AfterInstallingScreens>
+<Packages/>
+<SerialLists>
+<SerialListData>
+<Name>List 1</Name>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Serials/>
+</SerialListData>
+</SerialLists>
+<UninstallData>
+<CreateUninstall>1</CreateUninstall>
+<CfgFile>uninstall.xml</CfgFile>
+<UninstallFilesFolder>%AppFolder%\Uninstall</UninstallFilesFolder>
+<UninstallEXELocation>%AppFolder%\uninstall.exe</UninstallEXELocation>
+<AllowSilent>0</AllowSilent>
+<StartSilent>0</StartSilent>
+<ShowBGWindow>0</ShowBGWindow>
+<MainWindowSettings>
+<ShowBackGroundWindow>0</ShowBackGroundWindow>
+<WindowStyle>0</WindowStyle>
+<WindowAppearance>1</WindowAppearance>
+<SolidBackColor format="hex">008080</SolidBackColor>
+<GradientBackColor format="hex">b4c2e3</GradientBackColor>
+<GradientForeColor format="hex">5971b6</GradientForeColor>
+<ImageFile/>
+<UseCustomIcon>0</UseCustomIcon>
+<CustomIcon/>
+<HideTaskbarIcon>0</HideTaskbarIcon>
+<AlwaysOnTop>0</AlwaysOnTop>
+<Headline>%ProductName% Uninstall</Headline>
+<HeadingFont>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-37</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</HeadingFont>
+<HeadlineTextColor format="hex">ffffff</HeadlineTextColor>
+<Headline3DColor format="hex">000000</Headline3DColor>
+<HeadlineAlign>0</HeadlineAlign>
+<Headline3d>1</Headline3d>
+<SubHeading>v%ProductVer%</SubHeading>
+<SubHeadingFont>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-18</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</SubHeadingFont>
+<SubHeadingTextColor format="hex">ffffff</SubHeadingTextColor>
+<SubHeading3DColor format="hex">000000</SubHeading3DColor>
+<SubHeadingAlign>0</SubHeadingAlign>
+<SubHeading3d>1</SubHeading3d>
+<Footer>%Copyright% %CompanyName%. All rights reserved. %CompanyURL%</Footer>
+<FooterFont>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-16</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</FooterFont>
+<FooterTextColor format="hex">ffffff</FooterTextColor>
+<Footer3DColor format="hex">000000</Footer3DColor>
+<FooterAlign>0</FooterAlign>
+<Footer3d>1</Footer3d>
+</MainWindowSettings>
+<OverwriteDatFile>1</OverwriteDatFile>
+<OverwriteCtrlPanel>1</OverwriteCtrlPanel>
+<OverwriteSC>1</OverwriteSC>
+<CreateCPEntry>1</CreateCPEntry>
+<RegKeyName>%ProductName%%ProductVer%</RegKeyName>
+<CPDesc>%ProductName%</CPDesc>
+<UseCustomCPIcon>0</UseCustomCPIcon>
+<CustCPIconFN/>
+<CustCPIconIndex>0</CustCPIconIndex>
+<CPSIPublisher>%CompanyName%</CPSIPublisher>
+<CPSIPublisherURL>%CompanyURL%</CPSIPublisherURL>
+<CPSIHelpContactName>%CompanyName% Support Department</CPSIHelpContactName>
+<CPSIHelpURL>%CompanyURL%</CPSIHelpURL>
+<CPSIProductVer>%ProductVer%</CPSIProductVer>
+<CPSIRegOwner/>
+<CPSIRegCompany/>
+<CPSIUpdateInfoURL/>
+<CPSIReadmeLink/>
+<CPSIComments/>
+<CPSIInstallLocation>%AppFolder%</CPSIInstallLocation>
+<CPSIVersionMajor/>
+<CPSIVersionMinor/>
+<CreateAppFldSC>1</CreateAppFldSC>
+<AppFldSCDesc>Ð¶ÔØ %ProductName%</AppFldSCDesc>
+<SCComment>Removes %ProductName% from your computer.</SCComment>
+<UseCustomAppFldSCIcon>1</UseCustomAppFldSCIcon>
+<AppFldCustomIconFN>%AppFolder%\uninst.ico</AppFldCustomIconFN>
+<AppFolderSCIconIndex>0</AppFolderSCIconIndex>
+<LFCreate>1</LFCreate>
+<LFFilename>%TempFolder%\%ProductName% Uninstall Log.txt</LFFilename>
+<LFCmdLineOverride>0</LFCmdLineOverride>
+<LFWriteMode>0</LFWriteMode>
+<LFActionDetailLevel>1</LFActionDetailLevel>
+<BeforeScreens>
+<Screen>
+<Type>100</Type>
+<Name>Welcome to Uninstall</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Welcome to Uninstall</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>C:\Program Files (x86)\Setup Factory 9 Trial\Themes\Default\Default_Top_Banner.jpg</TBIMG>
+<SBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Side_Banner.bmp</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- These actions are performed when the Back button is clicked.
+
+-- go back to the previous screen
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- These actions are performed when the Next button is clicked.
+
+-- advance to the next screen
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- These actions are performed when the Help button is clicked.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- These actions are triggered by the controls on the screen.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Ð¶ÔØ³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>»¶Ó­</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>»¶Ó­Ê¹ÓÃ %ProductName% %ProductVer% Ð¶ÔØ³ÌÐò</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>¸Ã³ÌÐò½«Ð¶ÔØ %ProductName% %ProductVer%¡£
+
+Èç¹û %ProductName% µ±Ç°ÕýÔÚÔËÐÐ£¬¼ÌÐøÐ¶ÔØÖ®Ç°Çë½«Æä¹Ø±Õ¡£
+
+·ñÔò£¬Çëµ¥»÷¡°ÏÂÒ»²½¡±¼ÌÐø¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Ð¶ÔØ %ProductName%</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</BeforeScreens>
+<DuringInstScreenData>
+<ShowProgress>1</ShowProgress>
+<Screens>
+<Screen>
+<Type>130</Type>
+<Name>One Progress Bar (While Uninstalling)</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>One Progress Bar (While Uninstalling)</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Top_Banner.bmp</TBIMG>
+<SBIMG>C:\Program Files (x86)\Setup Factory 9 Trial\Themes\Default\Default_Side_Banner.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<IsWhileInstallingMode>1</IsWhileInstallingMode>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Progress</Name>
+<Args>number e_Stage, string e_CurrentItemText, number e_CurrentItemPct, number e_StagePct</Args>
+<Script>-- These actions are performed whenever progress is made while the setup is uninstalling files.
+
+--[[
+Note: 
+	The uninstallation process is divided into 2 progress stages: 
+
+	1. removing files
+	2. removing shortcuts
+
+	Each progress stage has a string in the project's language file(s)
+	that describes the stage, e.g. "Removing Files..." This makes
+	it possible for the progress text to be translated (along with
+	the other localized strings in the language files).
+]]
+
+-- get the appropriate string ID for the current stage's progress message...
+local strStringID;
+if(e_Stage == UNINSTALL_STAGE_REMOVING_FILES) then
+	strStringID = "MSG_PROG_UNINSTALL_REMOVING_FILES";
+elseif(e_Stage == UNINSTALL_STAGE_REMOVING_SHORTCUTS) then
+	strStringID = "MSG_PROG_UNINSTALL_REMOVING_SHORTCUTS";
+end
+
+-- ...and get the corresponding string from the language file
+local strStageMessage = SetupData.GetLocalizedString(strStringID);
+
+-- update the progress prompt to show the current stage
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_01, {Text=strStageMessage});
+
+-- if the current item is a file path, it might be too long to fit on the screen...
+-- this next action will shorten the text to 72 characters if it contains at least one \ in it
+local strAbbreviatedItemText = String.AbbreviateFilePath(e_CurrentItemText, 72);
+
+-- update the status text to show the current item (e.g. the file being removed)
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_02, {Text=strAbbreviatedItemText});
+
+-- update the progress bar
+DlgProgressBar.SetPos(CTRL_PROGRESS_BAR_01, e_StagePct);
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>78</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>211</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>212</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>900</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>1</XPStyleBars>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>213</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>214</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>901</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>0</XPStyleBars>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Ð¶ÔØ³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> ÕýÔÚÒÆ³ý %ProductName%</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT> ÇëÉÔºò...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01> </IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_LABEL_02> </IDS_CTRL_STATICTEXT_LABEL_02>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>½ø³Ì¶þ</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>ÕýÔÚÖ´ÐÐ¶¯×÷...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</Screens>
+</DuringInstScreenData>
+<AfterScreens>
+<Screen>
+<Type>100</Type>
+<Name>Finished Uninstall</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Finished Uninstall</TemplateName>
+<OverrideProjTheme>1</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>C:\Program Files (x86)\Setup Factory 9 Trial\Themes\Default\Default_Top_Banner.jpg</TBIMG>
+<SBIMG>F:\Work_Hudun\°²×°°üÖÆ×÷\SetupFacotry\PDF_Side_Banner.bmp</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- These actions are performed before the screen is shown.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- These actions are performed when the Back button is clicked.
+
+-- go back to the previous screen
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- These actions are performed when the Next button is clicked.
+
+-- advance to the next screen
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- These actions are performed when the Cancel button is clicked.
+
+-- from _SUF70_Global_Functions.lua:
+-- ask user if they're sure they want to exit
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- These actions are performed when the Help button is clicked.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- These actions are triggered by the controls on the screen.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Ð¶ÔØ³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Ð¶ÔØÒÑÍê³É</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Ð¶ÔØÒÑ³É¹¦Íê³É¡£</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>Íê³É(&amp;F)</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>%ProductName% %ProductVer% ÒÑ±»Ð¶ÔØ¡£
+
+Çëµ¥»÷¡°Íê³É¡±ÍË³ö¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Ð¶ÔØ³É¹¦</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</AfterScreens>
+<Events>
+<Event>
+<Name>On Startup</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Pre Uninstall</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Uninstall Error</Name>
+<Args>number e_ErrorCode, string e_ErrorMsgID</Args>
+<Script>-- These actions are performed is an error occurs while the setup is uninstalling files.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Post Uninstall</Name>
+<Args/>
+<Script>result = Shell.Execute("http://www.xjpdf.com/software/pdfConvert/uninstall/", "open", "", "", SW_SHOWNORMAL, false);
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Shutdown</Name>
+<Args/>
+<Script>
+-- Call this function at the end after all other On Shutdown actions.
+-- This will cause the system to be rebooted, if needed.
+-- Defined in _SUF70_Global_Functions.lua
+-- Do not edit this script unless you know what your are doing
+g_HandleSystemReboot();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+</UninstallData>
+<ProjectData>
+<LogFile>
+<Create>1</Create>
+<Filename>%TempFolder%\%ProductName% Setup Log.txt</Filename>
+<WriteMode>0</WriteMode>
+<ActionDetailLevel>1</ActionDetailLevel>
+</LogFile>
+<EnableSilentMode>0</EnableSilentMode>
+<StartInSilentMode>0</StartInSilentMode>
+<VerifyArchive>0</VerifyArchive>
+<UserProfile>0</UserProfile>
+<UserPrivilegeLevel>2</UserPrivilegeLevel>
+<MainWindowSettings>
+<ShowBackGroundWindow>0</ShowBackGroundWindow>
+<WindowStyle>0</WindowStyle>
+<WindowAppearance>1</WindowAppearance>
+<SolidBackColor format="hex">008080</SolidBackColor>
+<GradientBackColor format="hex">b4c2e3</GradientBackColor>
+<GradientForeColor format="hex">5971b6</GradientForeColor>
+<ImageFile/>
+<UseCustomIcon>1</UseCustomIcon>
+<CustomIcon>%TempLaunchFolder%\pdf.ico</CustomIcon>
+<HideTaskbarIcon>0</HideTaskbarIcon>
+<AlwaysOnTop>0</AlwaysOnTop>
+<Headline>%ProductName%</Headline>
+<HeadingFont>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-37</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</HeadingFont>
+<HeadlineTextColor format="hex">ffffff</HeadlineTextColor>
+<Headline3DColor format="hex">000000</Headline3DColor>
+<HeadlineAlign>0</HeadlineAlign>
+<Headline3d>1</Headline3d>
+<SubHeading>v%ProductVer%</SubHeading>
+<SubHeadingFont>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-18</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</SubHeadingFont>
+<SubHeadingTextColor format="hex">ffffff</SubHeadingTextColor>
+<SubHeading3DColor format="hex">000000</SubHeading3DColor>
+<SubHeadingAlign>0</SubHeadingAlign>
+<SubHeading3d>1</SubHeading3d>
+<Footer>%Copyright%. All rights reserved. %CompanyURL%</Footer>
+<FooterFont>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-16</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</FooterFont>
+<FooterTextColor format="hex">ffffff</FooterTextColor>
+<Footer3DColor format="hex">000000</Footer3DColor>
+<FooterAlign>0</FooterAlign>
+<Footer3d>1</Footer3d>
+</MainWindowSettings>
+<SetupExpiration>
+<ExpireByDate>0</ExpireByDate>
+<DateMethod>0</DateMethod>
+<NumDaysBld>30</NumDaysBld>
+<NumDaysRun>30</NumDaysRun>
+<AbortNotWriteDFR>1</AbortNotWriteDFR>
+<ExpireDate>1429346639</ExpireDate>
+<TellUserDate>0</TellUserDate>
+<ExpireByUses>0</ExpireByUses>
+<UsesMethod>1</UsesMethod>
+<NumUsesUser>1</NumUsesUser>
+<NumUsesSystem>2</NumUsesSystem>
+<AbortNotWritable>1</AbortNotWritable>
+<TellUserUses>0</TellUserUses>
+<UniqueKey>20C26E99-0BC0-4A5A-9E43-8017BDA7DF3A</UniqueKey>
+<ShowContactInfo>0</ShowContactInfo>
+<ContactName>%CompanyName%</ContactName>
+<ContactURL>%CompanyURL%</ContactURL>
+<ContactEmail/>
+<ContactPhone/>
+</SetupExpiration>
+<SetupRequirements>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<ScreenWidth>0</ScreenWidth>
+<ScreenHeight>0</ScreenHeight>
+<ColorDepth>0</ColorDepth>
+<RAM>0</RAM>
+<AdminReq>1</AdminReq>
+<Action>0</Action>
+</SetupRequirements>
+<Launcher/>
+<ProjectTheme>Default</ProjectTheme>
+<ProjFileDesc>New Project</ProjFileDesc>
+<ProjFileAuthor/>
+<ProjFileCompany/>
+<ProjFileNotes/>
+<ProjFileCopyright>Copyright 2015 </ProjFileCopyright>
+<ProjFileURL/>
+<ProjFileEmail/>
+<ProjFileCreatedVer>9.1.0.0</ProjFileCreatedVer>
+<ProjFileSavedVer>9.0.3.0</ProjFileSavedVer>
+<BaseFolderArchive>D:\Temp\ÐÂ°æPDF×ª»»Æ÷\PDF Convert\bin\Release</BaseFolderArchive>
+<BaseFolderExternal/>
+<UseSkinFile>0</UseSkinFile>
+<SkinFilename/>
+<SkinSubStyle/>
+<ActionPlugins/>
+<DependencyModules>
+<Dependency>
+<Name>.NET 2.0 SP2 (32-bit)</Name>
+<RuntimeTempFolder>dotnet20</RuntimeTempFolder>
+<RevisionDate>Wednesday, May 25, 2011</RevisionDate>
+<Description>Installs the Microsoft .NET 2.0 Framework SP2 onto the user's system. Includes the .NET installer in the setup executable.
+
+Applications and controls written for the .NET Framework version 2.0 require the .NET Framework Redistributable Package version 2.0 to be installed on the computer where the application or control runs. The .NET Framework redistributable package is available as a stand-alone executable file, dotnetfx3.exe. When this dependency module is included in your setup, it detects and installs the .NET Framework redistributable.
+
+This dependency module requires that you supply a copy of the Microsoft .NET Framework redistributable file (NetFx20SP2_x86.exe). The .NET installation file can be downloaded from the following URL:
+
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=5B2C0358-915B-4EB5-9B1D-10E506DA9D0F
+
+</Description>
+<DetectScript>function isDotNet_Installed()
+	--Check to see if the registry key exists
+	local DotNet_Registry = Registry.DoesKeyExist(HKEY_LOCAL_MACHINE, "SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v2.0.50727");
+	if (DotNet_Registry == false) then
+		-- The registry key does not exist
+		-- Run the .NET Installation script
+		-- Output to the log file that .NET could not be found, so it will be installed.
+		SetupData.WriteToLogFile("Info\t.NET 2.0 Module: No version of .NET 2.0 was found. .NET 2.0 will be installed.\r\n", true);
+		return false;
+	else
+		-- The key does exist
+		-- Get the .NET install success value from the registry
+		local DotNet_Install_Success = Registry.GetValue(HKEY_LOCAL_MACHINE, "SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v2.0.50727", "Install", true);
+
+		if (DotNet_Install_Success == "1") then
+			-- Check the version key.
+			local DotNet_Install_Version = Registry.GetValue(HKEY_LOCAL_MACHINE, "SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v2.0.50727", "Version", true);
+
+			-- Compare the returned value against the needed value
+			Compare = String.CompareFileVersions(DotNet_Install_Version, "2.2.30729");
+
+			if (Compare == 0 or Compare == 1) then
+				-- .NET version 2.0 SP2 is installed already
+				SetupData.WriteToLogFile("Info\t.NET 2.0 Module: .NET version 2.0 SP2 is installed already\r\n", true);
+				return true;
+			end
+		else
+			-- The success value wasn't found
+			-- Run the .NET Installation script
+			-- Output to the log file that .NET could not be found, so it will be installed.
+			SetupData.WriteToLogFile("Info\t.NET 2.0 Module: No version of .NET 2.0 was found. .NET 2.0 will be installed.\r\n", true);
+			return false;
+		end
+	end
+	return true;
+end</DetectScript>
+<DetectFunction>isDotNet_Installed</DetectFunction>
+<InstallScript>-- Check to see if this is a valid operating system for .NET 3.0
+function isValidDotNet2OS()
+	SetupData.WriteToLogFile("Info\t.NET 2.0 Module: Entering compatible OS detection.\r\n",true);
+
+	local tblOSInfo = System.GetOSVersionInfo();
+	local strOSName = System.GetOSName();
+
+	-- Check Windows XP
+	if (tblOSInfo.MajorVersion == "5") and (tblOSInfo.MinorVersion == "1") then
+		return true;
+	end
+
+	-- Check Windows Server 2003
+	if (tblOSInfo.MajorVersion == "5") and (tblOSInfo.MinorVersion == "2") then
+		return true;
+	end
+
+	-- this installer is not supported on other platforms
+	return false;
+end
+
+
+if (not isDotNet_Installed()) then
+	-- Variables used in the installation actions:
+	local strMessage = [[ÄúµÄµçÄÔÉÏÎ´°²×° Microsoft .NET 2.0¡£
+µã»÷ È·¶¨ ÒÔ°²×°.NET 2.0]];
+	local strDialogTitle = "¼¼ÊõÖ§³Ö";
+	local bShowUserPrompt = true; -- Whether to prompt the user for confirmation before running the .NET installer.
+	local bRunInstallFile = true; -- The default of whether or not to run the setup
+	local bRequirementFail = false;
+	local tbRequirementFailStrings = {};
+
+	local strAbortQuestion = [[
+
+°²×°.NET 2.0Ê§°Ü£¬½¨ÒéÄúÍË³ö°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+	local strRequirementString = [[ .NET 2.0 ÓÉÓÚÈçÏÂÔ­ÒòÎÞ·¨°²×°
+
+]];
+	local strRuntimeSupportFolder = SessionVar.Expand("%TempLaunchFolder%\\dotnet20");
+	local strExtractInstallerToPath = strRuntimeSupportFolder.."\\NetFx20SP2_x86.exe";
+	local strMessageFail = "";
+	local _NeedsReboot = false;
+	local strCmdArgs = "";
+	local bSilentMode = true; -- Whether to send the /q switch to the .NET 2.0 installer.
+	local bVital = true; -- Whether the .NET 2.0 installation is vital.
+
+	-- Output to the log that the .NET installation script has started.
+	SetupData.WriteToLogFile("Success\t.NET 2.0 Module: Installation script started.\r\n", true);
+
+	------------------------------------------------------------------------------------------------------------
+	---- Requires Internet Explorer 6.0 greater
+	------------------------------------------------------------------------------------------------------------
+
+	-- Read the version of Internet Explorer (if installed).
+	strIEVersion = Registry.GetValue(HKEY_LOCAL_MACHINE, "Software\\Microsoft\\Internet Explorer", "Version", false);
+
+	-- If Internet Explorer Version is less than 6.00.2800.1106 , or cannot be found,
+	-- set the failure variable and failure string table.
+	if ((String.CompareFileVersions(strIEVersion, "6.00")== -1) or (strIEVersion == "")) then
+		bRequirementFail = true;
+		strTemp = "- .NET 2.0 ÐèÒª Internet Explorer version 6.0 »ò¸ü¸ß°æ±¾µÄÖ§³Ö";
+		Table.Insert(tbRequirementFailStrings, Table.Count(tbRequirementFailStrings) + 1, strTemp);
+	end
+
+	------------------------------------------------------------------------------------------------------------
+	---- Requires Admin permissions                                                                         ----
+	------------------------------------------------------------------------------------------------------------
+
+	-- Check if the user is logged in with administrative permissions.
+	-- If the user doesn't have admin permissions, set the failure variable
+	-- and failure string table.
+	tbUserInfo = System.GetUserInfo();
+	if (tbUserInfo ~= nil) then
+		if (not tbUserInfo.IsAdmin) then
+			bRequirementFail = true;
+			strTemp = "- ÇëÓÃ¹ÜÀíÔ±È¨ÏÞÔËÐÐ .NET 2.0";
+			Table.Insert(tbRequirementFailStrings, Table.Count(tbRequirementFailStrings) + 1, strTemp);
+		end
+	end
+
+	------------------------------------------------------------------------------------------------------------
+	---- Requires MSI 3.1                                       						----
+	------------------------------------------------------------------------------------------------------------
+	-- Get the operating system name.
+	local strOSName = System.GetOSName();
+
+	local strMSIVersion = MSI.GetMSIVersion();
+
+
+	-- need MSI 3.1
+	if (String.CompareFileVersions(strMSIVersion,"3.1.4000") == -1) or (not strMSIVersion) then
+		-- MSI 3.1 is not installed
+		bRequirementFail = true;
+		strTemp = "- .NET 2.0 ÐèÒª Windows Installer 3.1 »ò¸ü¸ß°æ±¾µÄÖ§³Ö";
+		Table.Insert(tbRequirementFailStrings, Table.Count(tbRequirementFailStrings) + 1, strTemp);
+	end
+
+
+	------------------------------------------------------------------------------------------------------------
+	---- Operating System Check
+	-- Windows Server 2003
+	-- Windows XP
+	------------------------------------------------------------------------------------------------------------
+
+
+	-- Check if OS is Windows XP or Windows Server 2003
+	if (not isValidDotNet2OS()) then
+		bRequirementFail = true;
+		--.NET 2.0 isn't supported on the OS that was detected.
+		strTemp = "- .NET 2.0 ÎÞ·¨ÔÚµ±Ç°ÏµÍ³ÉÏ°²×°¡£Çë°²×° Windows XP, or Windows Server 2003»ò¸ü¸ß°æ±¾";
+		Table.Insert(tbRequirementFailStrings, Table.Count(tbRequirementFailStrings) + 1, strTemp);
+	end
+
+
+	-- Check if the dialog should be displayed asking whether or not they want to install the module.
+	if(bShowUserPrompt)then
+		local nDialogResult = Dialog.Message(strDialogTitle, strMessage, MB_OK, MB_ICONEXCLAMATION);
+		if(nDialogResult == IDOK)then
+			-- The user chose to install the module.
+			bRunInstallFile = true;
+		else
+			-- The user chose not to install the module.
+			bRunInstallFile = false;
+		end
+	end
+
+	if (not bRequirementFail) then
+		-- Check if the user wants to install the runtime.
+		if(bRunInstallFile)then
+			-- The following are command line options that can be used when launching the install file Dotnetfx3.exe.
+			-- /q  - Suppresses all UI. An .INI file cannot be specified with this option.
+			-- /quiet  - Same as /q.
+			-- /qb - Displays minimal UI, showing only progress.
+			-- /passive - Same as /qb.
+			-- /uninstall - Uninstalls product.
+			-- /remove - Same as /uninstall.
+			-- /f - Repairs all .NET Framework 3.0 components that are installed.
+			-- /nopatch -  Specifies that patches are not applied and bypasses patch checking.
+			-- /norollback - Specifies that setup is not rolled back if a setup component fails.
+			-- /norestart -  Specifies that the installer does not restart the computer after installation completes. The
+			--redistributable installer returns ERROR_SUCCESS_REBOOT_REQUIRED (3010) if a reboot is required.
+			--/? - Displays this list of options.
+
+
+			if (bSilentMode) then
+				-- Passing quite mode, and no restart.
+				strCmdArgs = strCmdArgs.."/qb /norestart ";
+			else
+				-- Passing no restart.
+				strCmdArgs = strCmdArgs.."/norestart ";
+			end
+
+			-- Output to the log that the .NET installation is being launched.
+			SetupData.WriteToLogFile("Info\t.NET 2.0 Module: .NET 2.0 installation file "..strExtractInstallerToPath.." is being launched.\r\n");
+			local nResult = File.Run(strExtractInstallerToPath, strCmdArgs, "", SW_SHOWNORMAL, true);
+				if (nResult == 3010) then
+					-- .NET install indicated that it needs reboot to be complete
+					-- Set MSI Factory's reboot variable so that the reboot is just
+					-- performed at the end of the install.
+					_NeedsReboot = true;
+				elseif (nResult == 1602) then
+					-- The user canceled the setup program.
+					strMessageFail = [[ ÄúÉÐÎ´°²×° .NET 2.0. ½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				elseif (nResult == 1603) then
+					-- A fatal error occurred during installation.
+					strMessageFail = [[A fatal error occurred during installation of the .NET 2.0 runtime. ½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				elseif (nResult == 1605) then
+					-- This action is only valid for products that are currently installed.
+					strMessageFail = [[Error during installation of the .NET 2.0 runtime. This action is valid only for products that are currently installed. ½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				elseif (nResult == 1636) then
+					-- The patch package could not be opened or the patch was not applicable to the .NET Framework 3.0.
+					strMessageFail = [[The patch package could not be opened or the patch was not applicable to the .NET Framework 2.0. ½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				elseif (nResult == 1639) then
+					-- Invalid command line argument.
+					strMessageFail = [[An invalid command line argument was passed to the .NET 2.0 installation. ½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				elseif (nResult == 1643) then
+					-- The patch package is not permitted by system policy.
+					strMessageFail = [[The .NET 2.0 patch package is not permitted by system policy. ½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				elseif (nResult == 0) then
+					-- The .NET setup was successful, so do nothing.
+				else
+					-- The .NET setup program was not completed successfully.
+					strMessageFail = [[ °²×° .NET 2.0 ·¢ÉúÎ´Öª´íÎó£¬½¨ÒéÄúÍË³öµ±Ç°°²×°³ÌÐò¡£
+
+µã»÷ È·¶¨ ÍË³ö°²×°, »ò È¡Ïû ÒÔ¼ÌÐø°²×°¡£]];
+				end
+
+				-- Check to see if an error message was generated.
+				if (strMessageFail ~= "") then
+					-- Display the error notification dialog.
+
+					-- Output to the log .NET error message.
+					SetupData.WriteToLogFile("Error\t.NET 2.0 Module: Dialog error shown- "..strMessageFail..".\r\n");
+
+					if (bShowUserPrompt) then
+						nDialogResult = Dialog.Message(".NET 2.0 Installation" ,strMessageFail,MB_OKCANCEL,MB_ICONEXCLAMATION);
+						if (nDialogResult == IDOK) then
+							bAbortInstall = true;
+						end
+					end
+				end
+
+			-- Delete the run time installer file and remove the temp folder
+			File.Delete(strExtractInstallerToPath);
+			--Folder.Delete(strRuntimeSupportFolder);
+
+			-- If the user chose to abort the install after the failure of .NET install, exit the setup.
+			if (bAbortInstall) then
+				-- Output to the log that the user chose to abort the setup after .NET failure.
+				SetupData.WriteToLogFile("Error\t.NET 2.0 Module: User chose to abort setup after .NET failure. Exiting setup.\r\n");
+				Application.Exit(EXIT_REASON_USER_ABORTED);
+			end
+
+
+
+		else
+			-- The user chose not to install the runtime so delete the run time installer file,
+			-- remove the temp folder and then exit the setup.
+
+			-- Output to the log that the user chose to abort the setup.
+			SetupData.WriteToLogFile("Error\t.NET 2.0 Module: User chose to abort setup. Exiting setup.\r\n");
+
+			File.Delete(strExtractInstallerToPath);
+			--Folder.Delete(strRuntimeSupportFolder);
+			if bVital then
+				Application.Exit(EXIT_REASON_USER_ABORTED);
+			else
+				Application.ExitScript();
+			end
+		end
+	else
+	-- A requirement failed
+
+		-- If the user didn't cancel...
+		if (bRunInstallFile) then
+			-- One or more of the requirements failed. Notify the user and ask if they wish
+			-- to abort the installation.
+			strFullErrorString = Table.Concat(tbRequirementFailStrings, "\r\n", 1, TABLE_ALL);
+			nDialogResult = Dialog.Message("ÌáÐÑ"	, strRequirementString..strFullErrorString..strAbortQuestion, MB_OKCANCEL, MB_ICONINFORMATION, MB_DEFBUTTON1);
+
+			-- Output the requirement failure string to the log.
+			SetupData.WriteToLogFile("Error\t.NET 2.0 Module: Requirement failure dialog: "..strFullErrorString.."\r\n");
+
+			-- Delete the runtime installer file and remove the temp folder
+			File.Delete(strExtractInstallerToPath);
+
+			-- The user chose to abort the install due to the requirement failure of .NET.
+			if (nDialogResult == IDOK) then
+
+				-- Output to the log that the user chose to abort the install due to requirement failure.
+				SetupData.WriteToLogFile("Error\t.NET 2.0 Module: User aborted setup due to requirement failure. Exiting setup.\r\n");
+
+				-- Abort the install.
+				Application.Exit(EXIT_REASON_USER_ABORTED);
+			end
+		else
+			-- The user chose not to install the runtime so delete the run time installer file,
+			-- remove the temp folder and then exit the setup.
+
+			-- Output to the log that the user chose to abort the setup.
+			SetupData.WriteToLogFile("Error\t.NET 2.0 Module: User chose to abort setup. Exiting setup.\r\n");
+
+			File.Delete(strExtractInstallerToPath);
+
+			if bVital then
+				Application.Exit(EXIT_REASON_USER_ABORTED);
+			else
+				Application.ExitScript();
+			end
+
+		end
+	end
+
+	-- If a reboot was needed by .NET, notify the user that they must reboot
+	-- before continuing with the install
+
+	-- NOTE: If you would always like to force the user to reboot, comment out the "if (_NeedsReboot) then" condition below.
+
+	local strRebootMessage = [[A reboot is required to continue with the installation. After rebooting, re-run the installation.
+
+Click OK to reboot now, or Cancel to reboot later.]];
+	if (_NeedsReboot) then
+		nDialogResult = Dialog.Message("ÌáÐÑ", strRebootMessage, MB_OKCANCEL, MB_ICONINFORMATION, MB_DEFBUTTON1);
+
+		-- Output to the log that a reboot is required by the .NET setup.
+		SetupData.WriteToLogFile("Info\t.NET 2.0 Module: .NET 2.0 detected that a reboot is required.\r\n");
+		-- Check if the uer wanted to reboot now.
+		if (nDialogResult == IDOK) then
+
+			-- NOTE:  If you would like the install to relaunch itself after the reboot,
+			-- uncomment the following block of code.
+			-- Re-run the installation after the reboot.
+
+			File.RunOnReboot(_SourceFilename, "");
+
+			-- Output to the log that a reboot will be performed.
+			SetupData.WriteToLogFile("Info\t.NET 2.0 Module: A reboot will be performed.\r\n");
+			-- Reboot the user's system.
+			System.Reboot();
+			Application.Exit(0);
+		else
+			-- Output to the log that the user chose to reboot later and abort the setup.
+			SetupData.WriteToLogFile("Info\t.NET 2.0 Module: User chose to reboot later. Exiting setup.\r\n");
+			-- Abort the install.
+			Application.Exit(EXIT_REASON_USER_ABORTED);
+		end
+	end
+	-- Output to the log that the installation script has finished.
+	SetupData.WriteToLogFile("Success\t.NET 2.0 Module: Installation script finished.\r\n");
+end</InstallScript>
+<SupportFiles>
+<File>#SUFDIR#\Dependencies\dotnet20\NetFx20SP2_x86.exe</File>
+</SupportFiles>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+</Dependency>
+</DependencyModules>
+<PrimerFiles>
+<PrimerFile>
+<SourcePath>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\pdf.ico</SourcePath>
+<DeleteOnExit>1</DeleteOnExit>
+<NeededByUninstall>0</NeededByUninstall>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+</PrimerFile>
+</PrimerFiles>
+<Events>
+<Event>
+<Name>Global Functions</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Startup</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Pre Install</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Install Error</Name>
+<Args>number e_ErrorCode, string e_ErrorMsgID</Args>
+<Script>-- These actions are performed is an error occurs while the setup is installing files.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Post Install</Name>
+<Args/>
+<Script>Setup_Filename = String.SplitPath(SessionVar.Expand("%SourceFilename%")).Filename ..  String.SplitPath(SessionVar.Expand("%SourceFilename%")).Extension; --°²×°°üÎÄ¼þÃûºÍºó×º
+INIFile.SetValue(SessionVar.Expand("%AppFolder%\\set.ini"), "Install", "SetupName",Setup_Filename );
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Shutdown</Name>
+<Args/>
+<Script>
+-- Call this function at the end after all other On Shutdown actions.
+-- This will cause the system to be rebooted, if needed.
+-- Defined in _SUF70_Global_Functions.lua
+-- Do not edit this script unless you know what your are doing
+g_HandleSystemReboot();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+</ProjectData>
+<LangSettings>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+</LangSettings>
+<SUF7SessionVars>
+<SessionVar>
+<Name>%ProductName%</Name>
+<Value>Ñ¸½ÝPDF×ª»»Æ÷</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%CompanyName%</Name>
+<Value>Ñ¸½Ý</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%ProductVer%</Name>
+<Value>6.1</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%Copyright%</Name>
+<Value>Copyright ?2012 %CompanyName%</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%CompanyURL%</Name>
+<Value>http://www.xjpdf.com/</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% °²×°</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Ð¶ÔØ</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%AppFolder%</Name>
+<Value>%ProgramFilesFolder%\%ProductName%</Value>
+<Type>2</Type>
+</SessionVar>
+<SessionVar>
+<Name>%AppShortcutFolderName%</Name>
+<Value>%ProductName%</Value>
+<Type>2</Type>
+</SessionVar>
+</SUF7SessionVars>
+<BuildConfigurations>
+<BuildConfig>
+<Name>Default</Name>
+<PreBuildProg/>
+<PreBuildCmdLine/>
+<PreBuildWait>0</PreBuildWait>
+<PostBuildProg/>
+<PostBuildCmdLine/>
+<PostBuildWait>0</PostBuildWait>
+<Filename>pdf_setup_6.0_201511101835.exe</Filename>
+<OutputFolder>C:\Users\Administrator\desktop</OutputFolder>
+<SegmentSizeMode>0</SegmentSizeMode>
+<CustomSegSize>0</CustomSegSize>
+<CustomSegSizeMode>0</CustomSegSizeMode>
+<Platform>0</Platform>
+<CollectLaunchUserInfo>0</CollectLaunchUserInfo>
+<CodeSignLocation/>
+<CodeSignCertificateFile/>
+<CodeSignPVKFile/>
+<CodeSignTimeStampURL/>
+<CodeSignDescription/>
+<CodeSignDescriptionURL/>
+<CodeSignSetups>0</CodeSignSetups>
+<CodeSigningTool>0</CodeSigningTool>
+<Arguments/>
+<UseCustomIcon>1</UseCustomIcon>
+<CustomIconFile>F:\Work_Hudun\SVN\PdfCon\PDF Convert\bin\Release\pdf.ico</CustomIconFile>
+<ResourceFileVersion>6.0</ResourceFileVersion>
+<ResourceProductVersion>6.0</ResourceProductVersion>
+<ResourceCompanyName>ÉÏº£»¥¶ÜÐÅÏ¢¿Æ¼¼ÓÐÏÞ¹«Ë¾</ResourceCompanyName>
+<ResourceProductName>Ñ¸½ÝPDF×ª»»Æ÷</ResourceProductName>
+<ResourceComments>Created with Setup Factory</ResourceComments>
+<ResourceInternalName>Ñ¸½ÝPDF</ResourceInternalName>
+<ResourceFileDescription>Ñ¸½ÝPDF×ª»»Æ÷</ResourceFileDescription>
+<ResourceCopyright>»¥¶Ü¿Æ¼¼ °æÈ¨ËùÓÐ</ResourceCopyright>
+<ResourceTrademarks>Ñ¸½ÝPDF</ResourceTrademarks>
+<ResourcePrivateBuild/>
+<ResourceSpecialBuild/>
+<StampResources>1</StampResources>
+<CompressionType CompressionSetting="LZMA_LOW" DictionarySize="24" WordSize="32" CPUThreads="2"/>
+<Vars/>
+</BuildConfig>
+</BuildConfigurations>
+<GlobalScriptIncludes>
+<GlobalIncludeScriptFile>
+<Filename>#SUFDIR#\Includes\Scripts\_SUF70_Global_Functions.lua</Filename>
+<IRReq>1</IRReq>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+</GlobalIncludeScriptFile>
+</GlobalScriptIncludes>
+</DocumentData>

@@ -1,0 +1,2 @@
+把PdfCon拷到桌面，把目录名修改为 PdfCon_NetFramework4.5 ，再点击项目,右击鼠标---属性---应用程序---目标框架---.Net FrameWork 4.5
+编译之后，再混淆，同时签名
