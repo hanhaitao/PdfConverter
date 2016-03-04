@@ -43,6 +43,37 @@ namespace PDF_Convert
         [STAThread]
         static void Main()
         {
+            #region 当前用户是管理员的时候，直接启动应用程序,如果不是管理员，则使用启动对象启动程序，以确保使用管理员身份运行
+            //获得当前登录的Windows用户标示
+            System.Security.Principal.WindowsIdentity identity = System.Security.Principal.WindowsIdentity.GetCurrent();
+            //创建Windows用户主题
+            Application.EnableVisualStyles();
+
+            System.Security.Principal.WindowsPrincipal principal = new System.Security.Principal.WindowsPrincipal(identity);
+            //判断当前登录用户是否为管理员
+            if (principal.IsInRole(System.Security.Principal.WindowsBuiltInRole.Administrator))
+            {
+                //如果是管理员，则直接运行
+                // Application.EnableVisualStyles();
+                // Application.Run(new Form1());
+            }
+            else
+            {
+                //创建启动对象
+                System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+                //设置运行文件 
+                startInfo.FileName = System.Windows.Forms.Application.ExecutablePath;
+                //设置启动参数 
+                //startInfo.Arguments = String.Join(" ", Args); //Args为“static void Main(string[] Args) ”使用的参数
+                //设置启动动作,确保以管理员身份运行 
+                startInfo.Verb = "runas";
+                //如果不是管理员，则启动UAC
+                System.Diagnostics.Process.Start(startInfo);
+                //退出
+                //System.Windows.Forms.Application.Exit();
+            }
+            #endregion
+
             appProgName = Encrypt.Refresh();
             //MessageBox.Show("程序运行到这里了 11111");
             CheckOSVersion(); //检查操作系统的版本
@@ -81,7 +112,6 @@ namespace PDF_Convert
                 iniLanguage = "ja";
             if (iniLanguage.Substring(0, 2).ToLower() == "zh-TW".ToLower() || iniLanguage.Substring(2).ToLower() == "zh-HK".ToLower())
                 iniLanguage = "zh-tw";
-
 
             try
             {
@@ -260,16 +290,19 @@ namespace PDF_Convert
 
         static void RunForm()
         {
-            bool mutex_succ;
-            Mutex mutex = new Mutex(false, "XJ_PDF_CONVERT2", out mutex_succ);
+            //同时运行一个实例,实现此功能,对于VB.NET是非常容易的,只要指定一个属性即可,但是C#实现起来,就稍微繁琐了。C#实现单实例运行的方法,也有多种,比如利用 Process 查找进程的方式,利用 API findwindow 查找窗体的方式,还有就是利用 Mutex 原子操作,上面几种方法中,综合考虑利用 Mutex 的方式是较好的选择。
+            bool mutex_succ = false;
+            // Mutex mutex = new Mutex(false, "XJ_PDF_CONVERT2", out mutex_succ);
+            Mutex mutex = new Mutex(true, System.Diagnostics.Process.GetCurrentProcess().ProcessName, out mutex_succ);            
             if (!mutex_succ)
             {
-                //MessageBox.Show("本程序已经在运行了", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                //string iniLanguage = ini.read_ini("language");
-                string sTip = Language_Load(iniLanguage, "Program.cs", "MSG_01"); //提示                                
-                string sOld = Language_Load(iniLanguage, "Program.cs", "MSG_02"); //您添加的文件 $S 已存在,我们将会自动过滤这些文件!
-                MessageBox.Show(sOld, sTip, MessageBoxButtons.OK, MessageBoxIcon.Information);
-                return;
+                ////MessageBox.Show("本程序已经在运行了", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                ////string iniLanguage = ini.read_ini("language");
+                //string sTip = Language_Load(iniLanguage, "Program.cs", "MSG_01"); //提示                                
+                //string sOld = Language_Load(iniLanguage, "Program.cs", "MSG_02"); //本程序已经在运行了
+                //MessageBox.Show(sOld, sTip, MessageBoxButtons.OK, MessageBoxIcon.Information);
+                //// return;
+                Environment.Exit(1);
             }
 
             string form_type = new ini_config("config.ini").read_ini("formtype");
@@ -452,3 +485,6 @@ namespace PDF_Convert
         #endregion
     }
 }
+
+
+

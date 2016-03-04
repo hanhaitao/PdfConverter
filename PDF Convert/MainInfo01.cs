@@ -741,8 +741,8 @@ namespace PDF_Convert
 
             //安装之前再去掉注释,便于方便程序员调试程序,KongMengyuan(全文搜索这句话,在发布之前全部去掉注释)
             //英文版免费(两个条件同时满足则免费：1、安装操作系统时是英文版 2、Config.ini里面的language=en),免费版条件
-            if (Program.iniLanguage == "en")
-            //if (Program.iniLanguage == "en" && (System.Globalization.CultureInfo.InstalledUICulture.Name).Substring(0, 2).ToLower() == "en")
+            //if (Program.iniLanguage == "en")
+            if (Program.iniLanguage == "en" && (System.Globalization.CultureInfo.InstalledUICulture.Name).Substring(0, 2).ToLower() == "en")
             {
                 isReg = true;
                 this.plTop.BackgroundImage = Image.FromFile(spath + "header_02.png");
@@ -895,8 +895,8 @@ namespace PDF_Convert
 
             //安装之前再去掉注释,便于方便程序员调试程序,KongMengyuan(全文搜索这句话,在发布之前全部去掉注释)
             //自动更新,自动下载,在发布之前再将注释去掉,否则不停的上传统计(而实际是没有意义的数据),影响正常统计数据.
-            //Thread trd = new Thread(statisticsPost);//KongMengyuan增加,2015-11-09,依据郑侃炜新的要求所作,如果网址出错会死在这里,所以要
-            //trd.Start();
+            Thread trd = new Thread(statisticsPost);//KongMengyuan增加,2015-11-09,依据郑侃炜新的要求所作,如果网址出错会死在这里,所以要
+            trd.Start();
         }
 
         #region 自动上传至PHP网址,安装包信息,当前程序信息
@@ -3011,7 +3011,9 @@ namespace PDF_Convert
                     }
                     for (int j = 0; j < threadLength; j++) //2015-12-14,KongMengyuan注释,目前默认是只转换CPU个数少1核的进程数,发现虚拟机里“WinXP 64位”点击“开始转换”时此处出错,跟踪发现是"thread.length"不识别(编译时"目标平台"为X86和X64也都出错)。
                     {
-                        if (thread[j].ThreadState == System.Threading.ThreadState.Stopped)
+                        //Win8的64位和Win10的64位(32位的未测试)此处不是Stopped而是Aborted,KongMengyuan注释,2016-03-04
+                        //if (thread[j].ThreadState == System.Threading.ThreadState.Stopped)
+                        if (thread[j].ThreadState == System.Threading.ThreadState.Stopped || thread[j].ThreadState == System.Threading.ThreadState.Aborted || thread[j].ThreadState == System.Threading.ThreadState.Unstarted)
                         {
                             thread[j] = new Thread(new ParameterizedThreadStart(WorkThread));
                             thread[j].IsBackground = true;
@@ -3477,7 +3479,9 @@ namespace PDF_Convert
                         Thread.Sleep(500);
                     }
 
-                if (thread[j].ThreadState == System.Threading.ThreadState.Stopped)
+                //Win8的64位和Win10的64位(32位的未测试)此处不是Stopped而是Aborted(但Win7的64位,考虑问题要全面,但V6.2就全部通过,也很奇怪),KongMengyuan注释,2016-03-04
+                //if (thread[j].ThreadState == System.Threading.ThreadState.Stopped)
+                if (thread[j].ThreadState == System.Threading.ThreadState.Stopped || thread[j].ThreadState == System.Threading.ThreadState.Aborted || thread[j].ThreadState == System.Threading.ThreadState.Unstarted)
                 {
                     Console.WriteLine("Thread:" + j);
                     thread[j] = new Thread(new ParameterizedThreadStart(WorkThread));
@@ -3929,7 +3933,6 @@ namespace PDF_Convert
         private void lblTestAutoUpdate_Click(object sender, EventArgs e)
         {
             //安装之前要注释,测试自动更新界面,便于方便程序员调试程序,KongMengyuan(全文搜索这句话,在发布之前全部去掉注释)
-
             DialogResult dr = MessageBox.Show("测试人员专用(不需要翻译成多语言): \r\n  是-1个按钮 \r\n  否-2个按钮", "", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
             switch (dr.ToString())
             {

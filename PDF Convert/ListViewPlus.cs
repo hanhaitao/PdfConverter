@@ -747,9 +747,11 @@ namespace PDF_Convert
                         ////2015-12-14,KongMengyuan增加,先擦除进度条后面的文字(以白色代替,在选中状态下会显示白色,所以再转成透明的,但发现这种方法也解决不了总页数大于2位数的重影问题)
                         FillRoundRectangle2(g, Brushes.White //Brushes.Transparent
                                 , new Rectangle(e.Bounds.X + (int)((e.Bounds.Width) * (info.PersentValue / 100f))
-                                , e.Bounds.Y + 2
-                                , (int)(e.Bounds.Width) - (int)((e.Bounds.Width) * (info.PersentValue / 100f)) - 35 //为了把最后的图标不擦除,如果擦除了也会重写但屏幕会闪
-                                , 43), 4);
+                                                , e.Bounds.Y + 2
+                                                , (int)(e.Bounds.Width) - (int)((e.Bounds.Width) * (info.PersentValue / 100f)) - 35 //为了把最后的图标不擦除,如果擦除了也会重写但屏幕会闪
+                                                , 43)
+                                , 4);
+
                         if (info.PersentValue == 0)
                         {
                             //KongMengyuanw修改,2015-11-05,转换成功后,显示进度条最后有一点点没有走完,界面有瑕疵

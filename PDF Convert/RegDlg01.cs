@@ -392,7 +392,7 @@ namespace PDF_Convert
         private void registerCodeEnter()
         {
             //测试人员用,生成注册码,内部人员使用
-            string regCode = new reg().get_reg_code("710519949"); //后面是测试用的本机序号
+            string regCode = new reg().get_reg_code("200035742"); //后面是测试用的本机序号
             Console.WriteLine(regCode);
 
             this.pbActive.BackgroundImage = Image.FromFile(spath01 + "Active_03.png");
