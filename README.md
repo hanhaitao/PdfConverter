@@ -1,3 +1,4 @@
+Travis CI编译情况：[![Build Status](https://travis-ci.com/huduntech-dev/pdfconverter.svg?token=MfZC3wQKdkN1pbzqr6BF&branch=master)](https://travis-ci.com/huduntech-dev/pdfconverter)
 # 迅捷PDF转换器 简介及版本更新情况
 迅捷PDF转换器，提供PDF与Office文件、图像互相转换的功能。
 
@@ -9,11 +10,11 @@
 **编码人员**：KongMengyuan  
 **测试人员**： 侯福涛  
 **设计人员**：夏勇  
-** 程序改进**   
+**程序改进**   
 
 - PDF转为PPT，默认选择PPTX，允许用户自己切换到PPT格式
 
-** 安装包改进 **  
+**安装包改进**  
 
 - 增加多语言界面安装（全部都变为多语言对应内容）
 
