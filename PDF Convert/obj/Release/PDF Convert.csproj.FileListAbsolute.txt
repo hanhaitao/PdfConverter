@@ -437,3 +437,5 @@ F:\Work_Hudun\SVN\PdfCon_V6.3\PdfCon\PDF Convert\obj\Release\PDF_Convert.RegDlgO
 F:\Work_Hudun\SVN\PdfCon_V6.3\PdfCon\PDF Convert\obj\Release\PDF_Convert.frmMain01Setting01.resources
 F:\Work_Hudun\SVN\PdfCon_V6.3\PdfCon\PDF Convert\obj\Release\PDF_Convert.frmMain01Setting02.resources
 F:\Work_Hudun\SVN\PdfCon_V6.3\PdfCon\PDF Convert\obj\Release\PDF_Convert.frmMain01Setting03.resources
+E:\GitHub\pdfconverter\PDF Convert\obj\Release\PDF Convert.exe
+E:\GitHub\pdfconverter\PDF Convert\obj\Release\PDF Convert.pdb
