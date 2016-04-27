@@ -250,7 +250,6 @@
     <Compile Include="ucTextBoxListView.Designer.cs">
       <DependentUpon>ucTextBoxListView.cs</DependentUpon>
     </Compile>
-    <Compile Include="Version.cs" />
     <Compile Include="PassWordDlgOld.cs">
       <SubType>Form</SubType>
     </Compile>
